@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gunterrobbrecht
 - 👀 I’m interested in Web and App programming
-- 🌱 I’m currently learning Flutter and Dart
+- 🌱 I’m currently learning PHP, Symfony and JavaScript
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
